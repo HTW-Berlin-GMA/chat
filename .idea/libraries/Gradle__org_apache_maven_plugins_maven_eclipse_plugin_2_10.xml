@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.plugins:maven-eclipse-plugin:2.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.plugins/maven-eclipse-plugin/2.10/f0312ff304124885030fef3d330f910de2e6b3eb/maven-eclipse-plugin-2.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.plugins/maven-eclipse-plugin/2.10/d75505fa9165d6c2672af5e057d65a796d6391c7/maven-eclipse-plugin-2.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

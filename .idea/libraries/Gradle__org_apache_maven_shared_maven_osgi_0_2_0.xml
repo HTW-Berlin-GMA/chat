@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.shared:maven-osgi:0.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/maven-osgi/0.2.0/d0a73bdeb9b71d39cb6e26b6b3f5089f4ab2e015/maven-osgi-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/maven-osgi/0.2.0/a9c990d9a87bde90a6a26adef8c2752bc28674ff/maven-osgi-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

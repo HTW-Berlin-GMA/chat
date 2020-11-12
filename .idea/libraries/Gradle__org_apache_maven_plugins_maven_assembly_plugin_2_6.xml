@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.plugins:maven-assembly-plugin:2.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.plugins/maven-assembly-plugin/2.6/a62c97a1bf000c80ff48995d10e1c8f31a2a9cf0/maven-assembly-plugin-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.plugins/maven-assembly-plugin/2.6/4f7f889a946806ce8765adf35f0b7c338c39eac2/maven-assembly-plugin-2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

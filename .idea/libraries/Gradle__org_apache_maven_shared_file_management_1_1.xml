@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.shared:file-management:1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/file-management/1.1/1a751b5b40520478458f31dca58d763c34580755/file-management-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/file-management/1.1/afbdd5db77a625b95309e75958c45aaefcb3e2b9/file-management-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.slf4j:slf4j-migrator:1.8.0-beta4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-migrator/1.8.0-beta4/5e49774cba9b5299f0c26c73470e2731aac40316/slf4j-migrator-1.8.0-beta4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-migrator/1.8.0-beta4/542e6d31bbf695a816d9d186e95cdfb0e343ae10/slf4j-migrator-1.8.0-beta4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

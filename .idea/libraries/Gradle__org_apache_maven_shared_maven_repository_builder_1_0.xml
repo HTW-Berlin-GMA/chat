@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.shared:maven-repository-builder:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/maven-repository-builder/1.0/2e68cda42d3a849bf7de013f58dff8d2913e8174/maven-repository-builder-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/maven-repository-builder/1.0/25c34902c39201b91c345929ab69302ba51b17c9/maven-repository-builder-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
